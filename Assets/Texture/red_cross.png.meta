@@ -1,0 +1,93 @@
+fileFormatVersion: 2
+guid: 73ae3d5db3ebd464c85e8d6d599111b4
+timeCreated: 1462914446
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: red_cross_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: red_cross_0
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 67
+        width: 253
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58.5, y: -147.5}
+        - {x: 84.5, y: -144.5}
+        - {x: 117.5, y: -110.5}
+        - {x: 112.5, y: -43.5}
+        - {x: 88.5, y: -1.5}
+        - {x: 84.5, y: 6.5}
+        - {x: 120.5, y: 64.5}
+        - {x: 126.5, y: 75.5}
+        - {x: 126.5, y: 161.5}
+        - {x: 46.5, y: 161.5}
+        - {x: 16.5, y: 139.5}
+        - {x: 10.5, y: 161.5}
+        - {x: -74.5, y: 161.5}
+        - {x: -94.5, y: 149.5}
+        - {x: -95.5, y: 88.5}
+        - {x: -75.5, y: 17.5}
+        - {x: -98.5, y: -8.5}
+        - {x: -121.5, y: -41.5}
+        - {x: -126.5, y: -51.5}
+        - {x: -126.5, y: -161.5}
+        - {x: -43.5, y: -161.5}
+        - {x: -39.5, y: -159.5}
+        - {x: -7.5, y: -107.5}
+        - {x: 23.5, y: -139.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
